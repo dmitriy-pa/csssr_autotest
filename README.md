@@ -1,0 +1,1 @@
+# csssr_autotest
